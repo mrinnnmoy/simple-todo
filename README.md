@@ -15,3 +15,8 @@ A To-do app made using html,css and javascript.
 # 🖼️ Preview 
 
 <img src="./simple-todo.png" alt="Preview">
+
+
+#  Made with ❤️ by <a href="https://www.linkedin.com/in/mrinnnmoy/" target="_blank">Mrinmoy Porel</a>
+ <a href="https://github.com/mrinnnmoy?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mrinnnmoy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
