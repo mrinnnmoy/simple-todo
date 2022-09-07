@@ -67,11 +67,33 @@ body {
 #msg {
     color: red;
 }
-h4{
+
+h4 {
     text-align: center;
 }
-p, a{
+
+p,
+a {
     text-align: center;
     text-decoration: none;
     font-size: 15px;
+}
+
+@media screen and (max-width: 320px) {
+    .app {
+        width: 300px;
+        height: 600px;
+    }
+
+    h4 {
+        text-align: center;
+        /* font-size: 5px; */
+    }
+
+    p,
+    a {
+        text-align: center;
+        text-decoration: none;
+        font-size: 5px;
+    }
 }
